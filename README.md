@@ -124,3 +124,15 @@ Public access via a live URL
 Automatic redeployment on GitHub updates
 
 Zero infrastructure management
+
+# Key Learnings & Outcomes
+
+Hands-on experience with real-world marketing data
+
+Built interactive dashboards for business users
+
+Learned limitations of regression models for engagement prediction
+
+Understood model benchmarking using H2O AutoML
+
+Gained experience in end-to-end project deployment
